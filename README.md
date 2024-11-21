@@ -1,10 +1,10 @@
 # Arch Linux ISO Customization
 
-This repository contains files for creating a custom version of Arch Linux ISO using [archiso](https://wiki.archlinux.org/title/Archiso). This ISO includes enhancements such as git, the Oh My Zsh theme for root.
+This repository contains files for creating a custom version of Arch Linux ISO using [archiso](https://wiki.archlinux.org/title/Archiso). 
 
 ## Features
 
-- **Added git**: [Git](https://git-scm.com/) is included for version control and easier collaboration.
+- **git**: Included for version control and easier collaboration.
 - **Fish shell**: Configured to show IP at login.
 - **SSH server with empty password authentication**: The SSH server is configured to allow empty password authentication for convenience. SHH connection is opened on port `22`.
 
